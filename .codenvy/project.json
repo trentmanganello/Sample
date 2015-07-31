@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{}},"runners":{"configs":{"system:/php/web/php56_gae":{"ram":1000,"variables":{},"options":{}}},"default":"system:/php/web/php56_gae"},"type":"GAEPhp","attributes":{"language":["php"]}}
